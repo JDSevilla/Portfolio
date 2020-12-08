@@ -1,0 +1,23 @@
+#welcomeline {
+    margin-bottom: 100px;
+}
+
+body {
+    background-image: url(https://ae01.alicdn.com/kf/Hafc67e93b3e54d9689ca8fb9d6f2321eF/Custom-Large-3D-Wallpaper-Mural-HD-Grey-Marble-Pattern-Background-Wall-Gold-Jade-TV-Bedroom-Background.jpg_960x960.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.img {
+    max-width: 45%;
+}
+
+p {
+    color: white
+}
+
+.profilepic {
+    max-width: 425px;
+    
+}
